@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 .env
 .env-sample
+node_modules
+.env
+package-lock.json
