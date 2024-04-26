@@ -55,6 +55,7 @@ async logout(){
          await this.account.deleteSession();
     }catch(error){
         throw(error);
+        console.log("helloo");
 
     }
 }
