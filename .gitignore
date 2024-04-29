@@ -1,5 +1,5 @@
 
-.env-sample
+
 node_modules
 .env
 package-lock.json
